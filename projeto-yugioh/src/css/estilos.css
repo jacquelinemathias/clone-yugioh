@@ -1,5 +1,5 @@
 body{
-    font-family: 'Yugioh', serif;
+    font-family: "Yugioh", serif;
     background-image: url(../imagens/fundo-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -160,16 +160,13 @@ body{
 body::-webkit-scrollbar-track{
     background-color: #c08057;
 }
-
-::-webkit-scrollbar {
+::-webkit-scrollbar{
     width: 10px;
 }
-
-::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb{
     background: #c08057;
     border-radius: 10px;
 }
-
-::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover{
     background: #c08057;
 }
